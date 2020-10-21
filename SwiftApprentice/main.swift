@@ -18,9 +18,17 @@ print("Hello, World!")
 let a = 28 % 10
 print(a)
  
- */
-
+ 
 // Loops
 for i in 1...10 {
     print(i)
+}
+
+ */
+
+// While loops
+var i = 10
+while i > 0 {
+    print(i)
+    i -= 1
 }
